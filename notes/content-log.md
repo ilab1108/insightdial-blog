@@ -7,3 +7,4 @@
 | 2026-11-04 | Pay Per Call Software: What to Look For | /blog/pay-per-call-software-what-to-look-for | pay per call software | Most pay-per-call disputes don't start with a bad buyer. They start with a rule nobody wrote down. |
 | 2026-11-05 | How to Start a Pay Per Call Network | /blog/start-a-pay-per-call-network | start a pay per call network | Most new pay-per-call networks start in the wrong order. |
 | 2026-11-06 | Pay Per Call Campaign Setup: Step by Step | /blog/pay-per-call-campaign-setup | pay per call campaign setup | The most expensive test call is the one a real customer makes for you. |
+| 2026-11-07 | Pay Per Call Affiliate Payouts: How to Automate Them | /blog/pay-per-call-affiliate-payouts | pay per call affiliate payouts | Affiliate payout disputes rarely start with the money. They start with two different counts of the same calls. |
