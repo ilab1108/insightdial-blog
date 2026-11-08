@@ -8,3 +8,4 @@
 | 2026-11-05 | How to Start a Pay Per Call Network | /blog/start-a-pay-per-call-network | start a pay per call network | Most new pay-per-call networks start in the wrong order. |
 | 2026-11-06 | Pay Per Call Campaign Setup: Step by Step | /blog/pay-per-call-campaign-setup | pay per call campaign setup | The most expensive test call is the one a real customer makes for you. |
 | 2026-11-07 | Pay Per Call Affiliate Payouts: How to Automate Them | /blog/pay-per-call-affiliate-payouts | pay per call affiliate payouts | Affiliate payout disputes rarely start with the money. They start with two different counts of the same calls. |
+| 2026-11-08 | Call Tracking for Affiliates: How It Works | /blog/call-tracking-for-affiliates | call tracking for affiliates | Clicks leave a trail. Phone calls don't, unless you build one. |
