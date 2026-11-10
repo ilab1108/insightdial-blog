@@ -1,0 +1,23 @@
+{
+  "slug": "clean-and-format-phone-number-lists",
+  "title": "How to Clean a Phone Number List (Free Tool)",
+  "h1": "How to clean and format a phone number list before you dial",
+  "description": "Clean a messy phone number list in seconds: format US and Canada numbers to +1, remove duplicates and flag invalid numbers with a free browser tool.",
+  "date": "2026-11-12",
+  "minutes": 4,
+  "faq": [
+    [
+      "Is the free phone number cleaner safe to use with my list?",
+      "Yes. The <a href=\"/free-tools/phone-number-cleaner\">bulk phone number cleaner</a> runs entirely in your browser. Your numbers are never uploaded to Insight Dial or stored anywhere. Nothing you paste or upload leaves your device."
+    ],
+    [
+      "Does cleaning a list check the Do Not Call Registry?",
+      "No. The National Do Not Call Registry is not open for public lookups, so no free web tool can legally check against it. Cleaning formats and de-duplicates your list and flags invalid numbers; do-not-call checks happen inside your calling platform with your own registry access."
+    ],
+    [
+      "What format should phone numbers be in for a dialer or CRM?",
+      "The safest format is E.164, which for the US and Canada is +1 followed by the 10-digit number, for example +13055550100. It imports cleanly into almost any dialer, CRM or call tracking platform and avoids duplicate records caused by different spacing or punctuation."
+    ]
+  ],
+  "body": "<p>A messy phone list costs you money. Duplicates mean you dial the same person twice, badly formatted numbers fail to import, and numbers from outside your target area waste connection attempts. Cleaning the list first fixes all three. Here is how to do it in a minute with a free tool, and what each step actually checks.</p><h2>Clean the list in your browser, for free</h2><p>Insight Dial has a free <a href=\"/free-tools/phone-number-cleaner\">bulk phone number cleaner and formatter</a>. Paste your numbers, upload a CSV or text file, or type them in one at a time. It runs entirely in your browser, so your list never leaves your device and nothing is sent to or stored by Insight Dial. When it is done you can download a clean CSV.</p><h2>What a good clean does</h2><ul><li><strong>Standardises the format.</strong> Every valid US and Canada number is converted to <strong>+1XXXXXXXXXX</strong> (E.164), so it imports cleanly into any dialer, CRM or call tracking tool.</li><li><strong>Removes duplicates.</strong> The same number written with different spacing or brackets is still the same number. De-duplicating stops you paying to dial or message one person twice.</li><li><strong>Flags invalid numbers.</strong> Anything that is not a valid 10-digit North American number, has a bad area code or exchange, or comes from outside the US and Canada is marked so you can drop it.</li><li><strong>Marks toll-free numbers.</strong> 800, 833, 844, 855, 866, 877 and 888 numbers are not tied to a location, which matters when you route or report by region.</li><li><strong>Shows state and time zone.</strong> Each number's likely state or province and time zone are listed, so you can call people during their own business hours.</li></ul><h2>What cleaning does not do</h2><p>Formatting is not the same as compliance. Cleaning a list does <strong>not</strong> tell you whether a number is on the National Do Not Call Registry, whether you have consent to call or text it, or whether the person still uses that number. People also keep their numbers when they move, so an area code is a first clue to location, not proof. Treat the clean list as a better starting point, then apply your own consent records and do-not-call checks before you dial.</p><h2>Then route and bill the calls properly</h2><p>Once your list is clean, the calls themselves still need tracking, routing and payouts. Insight Dial checks each caller's state, your buyers' hours and daily caps before a call connects, blocks repeat and suppressed numbers, and handles real-time bidding and per-affiliate payouts in one place. See <a href=\"/features\">the platform features</a> or try the other <a href=\"/free-tools\">free tools</a> for pay per call.</p>"
+}
