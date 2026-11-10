@@ -1,0 +1,23 @@
+{
+  "slug": "pay-per-call-ivr-and-whisper-scripts",
+  "title": "Pay Per Call IVR & Whisper Scripts (Free Tool)",
+  "h1": "How to write IVR and call whisper scripts for pay per call",
+  "description": "Learn what to put in a pay per call IVR greeting and agent whisper, with examples, then build your own in seconds with a free script generator.",
+  "date": "2026-11-13",
+  "minutes": 5,
+  "faq": [
+    [
+      "What is a call whisper in pay per call?",
+      "A whisper is a short message played only to the buyer or agent, right before the call connects. The caller never hears it. It tells the agent what is coming &mdash; the vertical, the campaign, the caller's state and whether they passed screening &mdash; so they answer prepared. Our <a href=\"/free-tools/ivr-script-generator\">script generator</a> writes one for you."
+    ],
+    [
+      "How long should a pay per call IVR greeting be?",
+      "Keep it under about 20 seconds. Name the service, give one reason to stay on the line, and ask only the one or two questions that confirm the caller matches the buyer's rules. Long menus make good callers hang up, which lowers your billable rate."
+    ],
+    [
+      "Do I need different scripts for each vertical?",
+      "Usually yes. The qualifying questions for Medicare, auto insurance, final expense and legal are all different, and buyers judge calls on those answers. Start from a vertical-specific template and adjust it to each buyer's rules."
+    ]
+  ],
+  "body": "<p>In pay per call, the script is where a raw call becomes a billable one. A clear greeting keeps good callers on the line, the right screening questions filter out calls the buyer will reject, and a <strong>whisper message</strong> tells the agent what is coming so they answer ready to close. Get these wrong and your billable rate &mdash; and your payout &mdash; falls. Here is what each part should do, with examples.</p><h2>The four parts of a call flow</h2><ul><li><strong>The greeting (what the caller hears).</strong> Name the service, give one reason to stay, and move straight into screening. Example: <em>Thank you for calling the Auto Insurance Savings Line. To connect you with a licensed specialist, I just need to ask a couple of quick questions.</em></li><li><strong>The screening questions.</strong> One or two questions that match the buyer's rules &mdash; state, age, situation, ownership. These decide whether the call is worth connecting.</li><li><strong>The whisper (what the agent hears).</strong> A short heads-up before connect. Example: <em>Inbound auto insurance call, campaign AcmeInsure FL, location Florida. Caller has passed screening. Connecting you now.</em></li><li><strong>The catch messages.</strong> A polite after-hours message and a disqualification message, so a caller who arrives at the wrong time or does not qualify still leaves with a good impression.</li></ul><h2>Build your scripts free in a minute</h2><p>You do not have to write these from scratch. Insight Dial has a free <a href=\"/free-tools/ivr-script-generator\">IVR and call whisper script generator</a>. Pick your vertical, name the campaign, and it writes the greeting, the whisper, your qualifying questions and the after-hours and disqualification messages. Edit anything, then copy each block or download them all as a text file. It runs entirely in your browser, so nothing you type is sent to or stored by Insight Dial.</p><h2>Write for the buyer's rules, not just the caller</h2><p>Every buyer has rules: the states they accept, their opening hours, a minimum call length before a call is billable, and the answers that make a lead qualified. Your script should screen for exactly those. The closer your questions match the buyer's rules, the higher your billable rate and the fewer rejected calls you argue over later.</p><h2>Then let the platform enforce them</h2><p>A script is only as good as the routing behind it. Inside Insight Dial you attach your greeting, whisper and IVR menu to a campaign, and the platform checks each caller's state, the buyer's hours and daily caps before the call connects, blocks repeat and suppressed numbers, and routes the call to the best buyer with real-time bidding. See <a href=\"/features\">the platform features</a>, or try the other <a href=\"/free-tools\">free tools</a> for pay per call.</p>"
+}
