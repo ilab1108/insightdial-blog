@@ -1,0 +1,23 @@
+{
+  "slug": "us-area-codes-by-state",
+  "title": "US Area Codes by State: Find Any Area Code",
+  "h1": "US area codes by state: find any area code's location and time",
+  "description": "Find any US or Canadian area code by state: its location, time zone and current local time. Browse the full area code directory free, no sign-up.",
+  "date": "2026-11-15",
+  "minutes": 4,
+  "faq": [
+    [
+      "How do I find which state an area code is in?",
+      "Look it up in the free <a href=\"/area-codes\">area code directory</a>. Every US and Canadian area code has its own page &mdash; for example <a href=\"/area-code/415\">415</a> (California) or <a href=\"/area-code/212\">212</a> (New York) &mdash; showing the state, time zone and current local time. You can also browse by state, such as <a href=\"/area-codes/texas\">Texas area codes</a>."
+    ],
+    [
+      "Can an area code tell me where a caller is?",
+      "It is a strong first clue but not proof. People keep their mobile numbers when they move, so a 415 number may belong to someone who now lives elsewhere. For routing and compliance you should confirm the caller's actual location rather than rely on the area code alone."
+    ],
+    [
+      "What time is it in a given area code?",
+      "Each area code page shows the current local time for that code's time zone, which is useful for calling during business hours. Split-zone states are handled correctly in the <a href=\"/area-codes\">directory</a>."
+    ]
+  ],
+  "body": "<p>An area code is the three-digit prefix of a US or Canadian phone number. It tells you roughly where the number was issued and, just as usefully, which time zone it sits in. Here is how to look one up and what it can (and cannot) tell you.</p><h2>Find an area code by state</h2><p>The free <a href=\"/area-codes\">Insight Dial area code directory</a> has a page for every area code and every state. Browse a state such as <a href=\"/area-codes/texas\">Texas</a> to see all its codes, or open a single code such as <a href=\"/area-code/310\">310</a> to see its state, time zone and <strong>current local time</strong>. Prefer a search box? The <a href=\"/free-tools/area-code-lookup\">area code lookup tool</a> does the same from one field.</p><h2>What an area code tells you</h2><ul><li><strong>Rough location</strong> &mdash; the state or region where the number was issued.</li><li><strong>Time zone</strong> &mdash; so you can call during the other person's business hours, not at 6am their time.</li><li><strong>Type</strong> &mdash; whether it is a normal geographic code or a toll-free prefix such as 800 or 888.</li></ul><p>What it does <strong>not</strong> tell you for certain is where the person is right now, because mobile numbers travel with their owner. Treat the area code as a first clue.</p><h2>Why this matters for pay per call</h2><p>If you route or buy phone calls, the area code drives real decisions: send a caller only to a buyer licensed in that state, and connect them during that buyer's open hours. Doing it by hand does not scale. <a href=\"/features\">Insight Dial</a> checks each caller's state, your buyers' hours and daily caps before a call connects, and routes it to the right buyer automatically. Browse the <a href=\"/area-codes\">area code directory</a> or the worldwide <a href=\"/international-dialing\">country calling codes</a> to see the data behind it.</p>"
+}
