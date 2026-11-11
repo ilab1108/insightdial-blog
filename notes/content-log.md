@@ -10,3 +10,4 @@
 | 2026-11-07 | Pay Per Call Affiliate Payouts: How to Automate Them | /blog/pay-per-call-affiliate-payouts | pay per call affiliate payouts | Affiliate payout disputes rarely start with the money. They start with two different counts of the same calls. |
 | 2026-11-08 | Call Tracking for Affiliates: How It Works | /blog/call-tracking-for-affiliates | call tracking for affiliates | Clicks leave a trail. Phone calls don't, unless you build one. |
 | 2026-11-11 | White Label Call Tracking for Pay Per Call Networks | /blog/white-label-call-tracking | white label call tracking | Your partners judge your network by one screen: the one they log in to. |
+| 2026-11-12 | Legal Pay Per Call: How Law Firms Buy Calls | /blog/legal-pay-per-call | legal pay per call | A legal call is only worth its payout if both sides agree on what "a call" means. |
