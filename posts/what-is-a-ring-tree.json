@@ -1,0 +1,23 @@
+{
+  "slug": "what-is-a-ring-tree",
+  "title": "What Is a Ring Tree in Pay Per Call?",
+  "h1": "What is a ring tree in pay per call?",
+  "description": "A ring tree (or ping tree) routes each inbound call to a sequence of buyers until one accepts it. Here is how ring trees work and when to use one.",
+  "date": "2026-11-17",
+  "minutes": 5,
+  "faq": [
+    [
+      "What is the difference between a ring tree and a ping tree?",
+      "They describe the same idea. \"Ping tree\" comes from form-lead routing, where a lead is pinged to buyers in turn; \"ring tree\" is the phone-call version, where an inbound call is offered to buyers until one accepts and the call connects."
+    ],
+    [
+      "Is a ring tree the same as real-time bidding?",
+      "Not quite. A ring tree is the structure that offers a call to buyers in some order; real-time bidding is one way to decide that order, by price. You can run a ring tree by fixed priority, by bid, or a mix of both. See <a href=\"/blog/how-real-time-call-bidding-works\">how real-time call bidding works</a>."
+    ],
+    [
+      "Why use a ring tree instead of one buyer?",
+      "Because a single buyer who is closed, capped or simply not interested means a lost call. A ring tree offers the call to the next buyer instead, so more calls connect and each one has a chance to sell for what it is worth."
+    ]
+  ],
+  "body": "<p>A <strong>ring tree</strong> is a way of routing an inbound phone call to several buyers in turn until one of them accepts it. The name comes from the shape: one call enters at the top and branches out to buyer after buyer until it finds a home. If you have heard the term <strong>ping tree</strong> for form leads, a ring tree is the same idea applied to live calls. It is the backbone of how networks sell a single call to the right buyer in real time.</p><h2>How a ring tree works</h2><ol><li><strong>A call comes in</strong> on a tracking number tied to a campaign.</li><li><strong>Filters run first.</strong> Blocked numbers, repeat callers, opening hours, state rules and daily caps decide which buyers are even eligible.</li><li><strong>The call is offered to buyers in order.</strong> That order can be a fixed priority list, or set by who bids the most for the call.</li><li><strong>The first buyer who accepts wins.</strong> The call connects to them and the price is recorded.</li><li><strong>If no one accepts, the call falls back</strong> to a voicemail, another campaign, or a message &mdash; so the caller is not simply dropped.</li></ol><h2>Ring tree, waterfall and real-time bidding</h2><p>These terms overlap, so it helps to separate them. A <strong>waterfall</strong> is a ring tree ordered by fixed priority: buyer A, then B, then C. <strong>Real-time bidding</strong> is a ring tree ordered by price: the call goes to the highest bid above your floor. Most platforms let you combine them &mdash; for example, run an auction first, then fall back to a priority waterfall if nobody bids. Our guide to <a href=\"/blog/how-real-time-call-bidding-works\">how real-time call bidding works</a> covers the auction side in detail.</p><h2>Why ring trees matter</h2><ul><li><strong>Higher fill rate</strong> &mdash; a capped or closed buyer no longer costs you the call; it moves on to the next.</li><li><strong>Better payout per call</strong> &mdash; when order is set by bid, each call tends to sell for closer to its true value.</li><li><strong>Fewer wasted callers</strong> &mdash; a sensible fall-back means even an unsold call ends in voicemail or a message, not silence.</li></ul><h2>Setting up a ring tree that behaves</h2><p>Three settings do most of the work. The <strong>order</strong> (priority, bid or both) decides who hears the call first. The <strong>timeout</strong> on each step keeps the caller from waiting too long before the call moves on. And the <strong>fall-back</strong> decides what happens when nobody takes the call. Get those right and the ring tree runs quietly in the background while callers connect.</p><h2>Run a ring tree on Insight Dial</h2><p>Insight Dial is built around exactly this flow. You set each buyer's states, hours and caps, and the platform checks them before a call is offered, blocks repeat callers, and can ask a buyer to confirm before the transfer. Order calls by a fixed waterfall, by <a href=\"/real-time-call-bidding-software\">real-time bid</a>, or a mix, with a fall-back so no call is lost. See <a href=\"/features#rtb\">the routing features</a> or <a href=\"/product\">how Insight Dial works</a>, then <a href=\"/publisher/register\">create a publisher account</a> to build your first ring tree.</p>"
+}

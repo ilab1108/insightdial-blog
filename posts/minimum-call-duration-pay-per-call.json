@@ -1,0 +1,23 @@
+{
+  "slug": "minimum-call-duration-pay-per-call",
+  "title": "Minimum Call Duration in Pay Per Call",
+  "h1": "Minimum call duration in pay per call, explained",
+  "description": "Minimum call duration is the seconds a call must last to be billable in pay per call. Learn how to set it fairly for buyers and publishers alike.",
+  "date": "2026-11-17",
+  "minutes": 5,
+  "faq": [
+    [
+      "What is a good minimum call duration?",
+      "It depends on the vertical. Simple enquiries may qualify at 30 to 60 seconds, while calls that need a real conversation, such as legal or insurance, often use 90 to 120 seconds or more. Set it long enough to prove intent but short enough that genuine callers are not excluded."
+    ],
+    [
+      "Does minimum duration count ringing time?",
+      "No. It counts connected talk time, not the seconds the phone is ringing or sitting in an IVR menu. A call should only start counting toward the threshold once the caller and buyer are actually connected."
+    ],
+    [
+      "Why do buyers insist on a minimum duration?",
+      "Because it filters out hang-ups, wrong numbers and misdials that could never become a sale. Paying only for calls that last past a set point keeps a buyer's cost tied to callers who showed real intent."
+    ]
+  ],
+  "body": "<p><strong>Minimum call duration</strong> is the number of seconds a call must last before it counts as billable in pay per call. If a caller hangs up before that point, the call is free; once the call passes it, the buyer pays the agreed price. It is one of the most important rules in any pay per call agreement because it is where buyers and publishers agree what a real call is worth paying for.</p><h2>Why a minimum duration exists</h2><p>Not every call is a lead. People misdial, hang up when they reach a menu, or call by mistake. A buyer should not pay for those, and a publisher should not expect them to. A minimum duration draws a clear line: a call that ends in eight seconds was never a prospect, while a call that runs past ninety seconds almost certainly involved a real conversation. The threshold turns \"was that a good call?\" from an argument into a number both sides agreed on in advance.</p><h2>Typical thresholds</h2><p>There is no single correct number &mdash; it should match how long a genuine call in your vertical takes to show intent:</p><ul><li><strong>Short (30&ndash;60 seconds)</strong> &mdash; simple, high-volume enquiries where intent is obvious fast.</li><li><strong>Medium (60&ndash;120 seconds)</strong> &mdash; the most common range, enough time for a caller to explain what they need.</li><li><strong>Longer (120 seconds or more)</strong> &mdash; considered purchases such as legal, insurance or finance, where a qualified call involves real discussion.</li></ul><p>Set it from your own recordings: find the point past which calls reliably turn into conversations, and use that.</p><h2>How it protects both sides</h2><p>For <strong>buyers</strong>, a minimum duration means paying only for calls with a real chance of converting, instead of every ring. For <strong>publishers</strong>, it sets an honest, measurable target: send callers who stay on the line because they want to, and get paid cleanly for them. Agreed in writing and enforced automatically, it prevents most month-end disputes before they start &mdash; much like clear <a href=\"/blog/duplicate-calls-pay-per-call\">duplicate-call rules</a> do.</p><h2>Related rules to agree alongside it</h2><p>Minimum duration works best next to a few companion rules: counting connected talk time only (not ringing or IVR time), duplicate-caller windows, and allowed states and hours. Together these define a billable call completely, which is exactly what a buyer wants to see before they commit &mdash; as covered in <a href=\"/blog/how-to-find-pay-per-call-clients\">how to find pay per call clients</a>.</p><h2>How Insight Dial handles billable duration</h2><p>Insight Dial measures connected talk time on every call and marks a call billable only once it passes the minimum you set for that campaign or buyer, with ringing and menu time excluded. Every call carries its duration, recording and transcript, so buyers and publishers see the same record of what qualified and why. Model the economics with the <a href=\"/pay-per-call-calculator\">pay per call profit calculator</a>, see the full flow on the <a href=\"/features\">features page</a>, or <a href=\"https://calendly.com/hello-insightdial/demo\">book a demo</a> to set your thresholds with us.</p>"
+}
