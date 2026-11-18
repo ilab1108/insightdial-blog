@@ -13,3 +13,4 @@
 | 2026-11-12 | Legal Pay Per Call: How Law Firms Buy Calls | /blog/legal-pay-per-call | legal pay per call | A legal call is only worth its payout if both sides agree on what "a call" means. |
 | 2026-11-13 | Duplicate Calls in Pay Per Call: How to Cut Them | /blog/duplicate-calls-pay-per-call | duplicate calls | Not every duplicate call is fraud. But every unclear duplicate rule becomes a dispute. |
 | 2026-11-16 | Home Services Pay Per Call: How to Run Campaigns | /blog/home-services-pay-per-call | home services pay per call | A contractor who is closed shouldn't get your call. |
+| 2026-11-18 | Insurance Pay Per Call: How to Run Campaigns | /blog/insurance-pay-per-call | insurance pay per call | Insurance calls get disputed over one thing more than any other: nobody wrote down what a billable call is. |
