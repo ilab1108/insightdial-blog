@@ -14,3 +14,4 @@
 | 2026-11-13 | Duplicate Calls in Pay Per Call: How to Cut Them | /blog/duplicate-calls-pay-per-call | duplicate calls | Not every duplicate call is fraud. But every unclear duplicate rule becomes a dispute. |
 | 2026-11-16 | Home Services Pay Per Call: How to Run Campaigns | /blog/home-services-pay-per-call | home services pay per call | A contractor who is closed shouldn't get your call. |
 | 2026-11-18 | Insurance Pay Per Call: How to Run Campaigns | /blog/insurance-pay-per-call | insurance pay per call | Insurance calls get disputed over one thing more than any other: nobody wrote down what a billable call is. |
+| 2026-11-19 | Pay Per Call Launch Checklist: 7 Checks Before Go-Live | /blog/pay-per-call-launch-checklist | pay per call launch checklist | Your first paying calls shouldn't be your test calls. |
