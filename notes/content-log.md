@@ -15,3 +15,4 @@
 | 2026-11-16 | Home Services Pay Per Call: How to Run Campaigns | /blog/home-services-pay-per-call | home services pay per call | A contractor who is closed shouldn't get your call. |
 | 2026-11-18 | Insurance Pay Per Call: How to Run Campaigns | /blog/insurance-pay-per-call | insurance pay per call | Insurance calls get disputed over one thing more than any other: nobody wrote down what a billable call is. |
 | 2026-11-19 | Pay Per Call Launch Checklist: 7 Checks Before Go-Live | /blog/pay-per-call-launch-checklist | pay per call launch checklist | Your first paying calls shouldn't be your test calls. |
+| 2026-11-20 | Pay Per Call for Agencies: Run Client Campaigns | /blog/pay-per-call-for-agencies | pay per call for agencies | Running pay-per-call for several clients? Keep every client in its own campaign. |
