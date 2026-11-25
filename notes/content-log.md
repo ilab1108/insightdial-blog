@@ -18,3 +18,4 @@
 | 2026-11-20 | Pay Per Call for Agencies: Run Client Campaigns | /blog/pay-per-call-for-agencies | pay per call for agencies | Running pay-per-call for several clients? Keep every client in its own campaign. |
 | 2026-11-23 | Call Tracking Webhooks: What They Do and How to Use | /blog/call-tracking-webhooks | call tracking webhooks | When a buyer says "we never got that call," what can you show them? |
 | 2026-11-24 | Form Lead Tracking: Which Campaign Sent the Lead | /blog/form-lead-tracking | form lead tracking | Your form leads probably say "direct" more often than they should. |
+| 2026-11-25 | Call Tracking for Real Estate: Trace Every Enquiry | /blog/call-tracking-for-real-estate | call tracking for real estate | Your property portal says it sent 200 enquiries. How many of them actually called? |
