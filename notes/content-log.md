@@ -20,3 +20,4 @@
 | 2026-11-24 | Form Lead Tracking: Which Campaign Sent the Lead | /blog/form-lead-tracking | form lead tracking | Your form leads probably say "direct" more often than they should. |
 | 2026-11-25 | Call Tracking for Real Estate: Trace Every Enquiry | /blog/call-tracking-for-real-estate | call tracking for real estate | Your property portal says it sent 200 enquiries. How many of them actually called? |
 | 2026-11-26 | Pay Per Call International: How to Run It Abroad | /blog/pay-per-call-international | pay per call international | Running pay per call outside one country? Your first problem won't be traffic. |
+| 2026-11-27 | Missed Calls: How to Reduce Them and Win Leads | /blog/reduce-missed-calls | missed calls | A missed call from a paid ad is a click you already paid for. |
